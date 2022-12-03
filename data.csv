@@ -1,0 +1,13 @@
+title;description;url;image
+Data Science Projects;Link to my Github Repository containing all projects related to data science with in depth explanation and reasoning;https://github.com/zeciljain8197/Data-Science-Projects;1.png
+Portfolio Website;A website built entirely in Python to showcase coding projects and apps.;https://portfolio8197.herokuapp.com/;2.png
+Mini Python Projects;A Github Repository containing all small personal python projects completed by me as a part of my Python Language learning path.;https://github.com/zeciljain8197/Mini-Python-projects;3.png
+Weather Forecast API;This is a weather forecasting API which can be used to find the forecasted weather (Temperatures and sky conditions) for any city in the world for the next 5 days.;https://github.com/zeciljain8197/Weather-Forecast-API;4.png
+Book Sentiment Analysis;A project to help analyze any book and find whether it is sentimentally negative or positive in terms of the language used.;https://github.com/zeciljain8197/Book-Sentiment-Analysis;5.png
+Email-Webcam-Object-Detection;This project is developed to detect any new object on webcam and send its frame exit image to the connected email account at the time of detection itself.;https://github.com/zeciljain8197/Email-Webcam-Object-Detection;6.png
+Web-Scraping-Musical-Events;This project is aimed at scraping information regularly from a Musical Events information provider website and store the event information in an SQL database using queries.;https://github.com/zeciljain8197/Web-Scraping-Musical-Events;7.png
+Todo App;A distraction-free web app to help you focus on creating and completing tasks.;https://github.com/zeciljain8197/My-To-do-Web-App;8.png
+ML Song Suggester Using Facial Mood Detection;This project is aimed at creating a Machine Learning model to detect mood from facial expression and suggest songs accordingly.;https://github.com/zeciljain8197/LGMVIP--DataScience/tree/main/Task%20-10;9.png
+Handwritten Equation Solver;This project is aimed at developing a mathematical equation solver using character and symbol recognition by enforcing the image processing techniques and CNN model.;https://github.com/zeciljain8197/LGMVIP--DataScience/tree/main/Task%20-9;10.png
+Image to Pencil Sketch;This is a short project aimed at converting RGB images into pencil sketches.;https://github.com/zeciljain8197/LGMVIP--DataScience/tree/main/Task%20-4;11.png
+IBM SpaceX Capstone Project;This is a capstone project completed under IBM Data Science Course aimed at studying SpaceX dataset and finding meaningful information for its competitors.;https://github.com/zeciljain8197/IBM_CAPSTONE_PROJ_REPO;12.png
