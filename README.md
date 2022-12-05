@@ -21,16 +21,16 @@ A streamlit based webapp deployed at [here](https://portfolio-website-2h1e.onren
 * data.csv : CSV file containing info on all the projects
 * streamlit_app.py : main python file consisiting of web app code
 
-## How to deploy using Render?
+## How to deploy using Streamlit?
 * Once confirm your app runds fine on localhost. Check using 
 ```
 streamlit run streamlit_app.py 
 ```
 * Create requirements.txt. 
 * Push repo to github.
-* Sign in to Render and select web service to deploy the application. 
-* Fill in the info for the web service app and connect to your github repo where the application files are stored. 
+* Sign in to Streamlit and create a new app. 
+* Fill in the info for the app and connect to your github repo where the application files are stored. 
 * Cross-verify the info and deploy.
 
 ### If your app is error free, it should get deployed !!
-If it doesn't then you can check the Render's deploy logs to see exactly what went wrong and rectify the error.
+If it doesn't then you can check the streamlit deployment logs and rectify the issue.
