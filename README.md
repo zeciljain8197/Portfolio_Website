@@ -36,5 +36,5 @@ streamlit run streamlit_app.py
 If it doesn't then you can check the streamlit deployment logs and rectify the issue.
 
 ```
-<b>Note:</b> Deployment can be done on Streamlit, Heroku, Render or any other platform of your choice.
+Note: Deployment can be done on Streamlit, Heroku, Render or any other platform of your choice.
 ```
