@@ -1,5 +1,5 @@
 info = {'name': 'Zecil Jain',
-        'Brief_1': """22-year-old ML Enthusiast, born & raised in ☀ Ahmedabad (Gujarat).""",
+        'Brief_1': """23-year-old ML Enthusiast, born & raised in ☀ Ahmedabad (Gujarat).""",
         'Brief_2': """
         🎓 A demonstrative individual with proficiency in Python and PostgreSQL and varied experiences in different 
         technologies from game development using Unity to Web scraping and data visualization. Having previously 
