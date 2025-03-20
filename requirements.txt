@@ -17,7 +17,7 @@ Jinja2==3.1.2
 jsonschema==4.17.0
 MarkupSafe==2.1.1
 packaging==21.3
-Pillow==9.3.0
+pillow==11.1.0
 plotly==5.11.0
 protobuf==3.20.3
 pydeck==0.8.0
