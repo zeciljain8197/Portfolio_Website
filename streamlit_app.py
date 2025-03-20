@@ -41,6 +41,10 @@ st.markdown("<h2 style='text-align: center; color: white;'><u>Introduction</u> �
 st.markdown(f"<p style='text-align: center; color: white;'>{info['Brief_1']}</p>", unsafe_allow_html=True)
 st.markdown(f"<p style='text-align: center; color: white;'>{info['Brief_2']}</p>", unsafe_allow_html=True)
 st.markdown(f"<p style='text-align: center; color: white;'>{info['Brief_3']}</p>", unsafe_allow_html=True)
+st.markdown(f"<p style='text-align: center; color: white;'>{info['Brief_4']}</p>", unsafe_allow_html=True)
+st.markdown(f"<p style='text-align: center; color: white;'>{info['Brief_5']}</p>", unsafe_allow_html=True)
+st.markdown(f"<p style='text-align: center; color: white;'>{info['Brief_6']}</p>", unsafe_allow_html=True)
+st.markdown(f"<p style='text-align: center; color: white;'>{info['Brief_']}</p>", unsafe_allow_html=True)
 
 st.markdown("<h2 style='text-align: center; color: white;'><u>Career snapshot</u> 🎬</h2>", unsafe_allow_html=True)
 
@@ -287,8 +291,8 @@ with st.sidebar:
                 st.info("Your email was sent successfully!")
 
     st.write("Need my resume?")
-    pdfFileObj = open('pdfs/zecil_jain_resume.pdf', 'rb')
-    st.download_button('Download', pdfFileObj, file_name='zecil_jain_resume.pdf', mime='pdf')
+    pdfFileObj = open('Zecil_Jain_Resume.pdf', 'rb')
+    st.download_button('Download', pdfFileObj, file_name='Zecil_Jain_Resume.pdf', mime='pdf')
 
 
 st.markdown("<h2 style='text-align: center; color: white;'><u>Education</u> 📖</h2>", unsafe_allow_html=True)
