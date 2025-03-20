@@ -44,7 +44,7 @@ st.markdown(f"<p style='text-align: center; color: white;'>{info['Brief_3']}</p>
 st.markdown(f"<p style='text-align: center; color: white;'>{info['Brief_4']}</p>", unsafe_allow_html=True)
 st.markdown(f"<p style='text-align: center; color: white;'>{info['Brief_5']}</p>", unsafe_allow_html=True)
 st.markdown(f"<p style='text-align: center; color: white;'>{info['Brief_6']}</p>", unsafe_allow_html=True)
-st.markdown(f"<p style='text-align: center; color: white;'>{info['Brief_']}</p>", unsafe_allow_html=True)
+st.markdown(f"<p style='text-align: center; color: white;'>{info['Brief_7']}</p>", unsafe_allow_html=True)
 
 st.markdown("<h2 style='text-align: center; color: white;'><u>Career snapshot</u> 🎬</h2>", unsafe_allow_html=True)
 
