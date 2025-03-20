@@ -1,23 +1,21 @@
 info = {'name': 'Zecil Jain',
-        'Brief_1': """23-year-old ML Enthusiast, born & raised in ☀ Ahmedabad (Gujarat).""",
-        'Brief_2': """
-        🎓 A demonstrative individual with proficiency in Python and PostgreSQL and varied experiences in different 
-        technologies from game development using Unity to Web scraping and data visualization. Having previously 
-        interned @ Saint Louis University as a Data Analyst, as a Python developer trainee @ Skyscend Business Solutions
-        , and as a Junior Machine Learning Engineer @ Omdena, I'm now learning the ropes of ML and Data Science with an
-        aim to build a career in the same.""",
-        'Brief_3': """✅ Anything about Sports, Formula1, Gaming, and Novels (especially crime fiction!!) will 
-        be great conversational starters!""",
+        'Brief_1': """🧑🏽‍💼 25-year-old Machine Learning & AI Enthusiast, originally from ☀️ Ahmedabad, Gujarat, now based in 🍃Arlington, Texas.""",
+        'Brief_2': """🎓 Currently pursuing my Master’s in Computer Science at The University of Texas at Arlington, where I also work as a Building Manager at the Maverick Activities Center.""",
+        'Brief_3': """💻 Tech & AI-driven problem solver with hands-on experience in Python, PostgreSQL, cloud computing (AWS, Azure), and MLOps. My journey spans from game development (Unity) to data visualization, AI automation, and large-scale ML model deployment.""",
+        'Brief_4': """🚀 Currently working as an organizing team member for the Datathon at UTA, working in the Challenges team—tasked with designing AI/ML-based challenges for participants, pushing the boundaries of applied data science and innovation.""",
+        'Brief_5': """👨‍💼 Previously worked as a Machine Learning Engineer @ Omdena, IT Consultant @ Marwadi Infosys, and Python Developer Intern @ Skyscend Business Solutions, optimizing workflows and deploying AI solutions that impact real-world applications.""",
+        'Brief_6': """🎯 Passionate about ML model development, AI-driven automation, and scalable cloud solutions—always eager to learn, build, and innovate!""",
+        'Brief_7': """✅ Anything about Sports, Formula1, Gaming, and Novels (especially crime fiction!!) will be great conversational starters!""",
         'skills': ['Python', 'Machine Learning', 'Data Analytics', 'Data Science', 'PostgreSQL', 'MySQL', 'Tableau',
                    'NLP', 'Deep Learning', 'Data Visualization', 'Streamlit', 'HTML', 'CSS', 'Java', 'Django'],
-        'edu': {'Qualification': ['B.E', '12th', '10th'],
-                 'Stream': ['C.E', 'CBSE-Science', 'CBSE'],
-                 'Year': ['2022', '2018', '2016'],
-                 'Institution': ['GTU', 'A.P.S International', 'Rachana School'],
-                 'Score': ['9.30 CGPA', '7.8 CGPA', '8.8 CGPA']},
-        'Mobile':'9913503594',
-        'Email':'zecil.jain@gmail.com',
-        'City':'Ahmedabad, Gujarat',
+        'edu': {'Qualification': ['MS', 'B.E', '12th', '10th'],
+                 'Stream': ['CS', 'C.E', 'CBSE-Science', 'CBSE'],
+                 'Year': ['2026', '2022', '2018', '2016'],
+                 'Institution': ['UT Arlington', 'GTU', 'A.P.S International', 'Rachana School'],
+                 'Score': ['4.0 GPA', '9.30 CGPA', '7.8 CGPA', '8.8 CGPA']},
+        'Mobile':'+16823678880',
+        'Email':'zecilyjain2000@gmail.com',
+        'City':'Arlington, Texas',
         'Github':'''<a href="https://github.com/zeciljain8197"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" height="40"></a>''',
         'Kaggle':'''<a href="https://www.kaggle.com/zeciljain"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40" height="40"></a>''',
         'Twitter':'''<a href="https://twitter.com/ZecilJ8197"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" width="40" height="40"></a>''',
